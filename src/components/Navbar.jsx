@@ -53,7 +53,7 @@ export default function Navbar() {
             {/* Option 1: Image Logo - Uncomment and adjust the path to your logo file */}
             
             <img 
-              src="public\icons\HarshaLogo.png" 
+              src="../public/icons/HarshaLogo.png" 
               alt="Harsha Portfolio" 
               className="h-10 w-auto object-contain"
             />
