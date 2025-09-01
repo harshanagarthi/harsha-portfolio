@@ -89,7 +89,7 @@ export default function Hero() {
         </motion.h2>
 
         <motion.p
-          className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-8 max-w-2xl drop-shadow-lg"
+          className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-8 max-w-3xl drop-shadow-lg"
           variants={itemVariants}
         >
           Python Developer | Machine Learning Enthusiast | Web Developer
