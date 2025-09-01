@@ -44,7 +44,7 @@ export default function App() {
             }}
           >
             <img 
-              src="../public/icons/HarshaLogo.png"
+              src="/icons/HarshaLogo.png"
               alt="Harsha Logo"
               className="w-full h-full object-contain"
             />
